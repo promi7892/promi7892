@@ -1,12 +1,16 @@
+<p align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="70%">
+  <br><br> </p>
+  
 ### Hi Promi here... 👋
 
 
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" 
+     src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  🔭 I’m looking for an internship <br>
  🌱 I’m a  currently learning React <br>
  🙆‍♀️  I’m a beginner and would appreciate any help you provide <br>
- 📫 How to reach me: jarin.tasnim7892@gmail.com <br>
+ 📫 Email me -> jarin.tasnim7892@gmail.com <br>
  💬 Facts : Started late with no regrets <br>
  
   ### I'm Familiar With
