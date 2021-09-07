@@ -11,7 +11,9 @@
  🌱 I’m a  currently learning React <br>
  🙆‍♀️  I’m a beginner and would appreciate any help you provide <br>
  📫 Email me -> jarin.tasnim7892@gmail.com <br>
- 💬 Facts : Started late with no regrets <br>
+ 💬 About me : Started late with no regrets <br>
+ 💫 Fun Fact : First I drink coffee ☕ , then I do the things 👩‍💻 <br>
+               
  
   ### I'm Familiar With
 
